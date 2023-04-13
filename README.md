@@ -6,7 +6,7 @@ También conocido como Felaupla en GitHub
 
 ### ¿Qué hago?
 
-Actualmente me dedico dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código.
+Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código.
 
 ### ¿A dónde me dirijo?
 
